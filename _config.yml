@@ -1,0 +1,21 @@
+title: My GitHub Portfolio
+description: A showcase of my projects and skills.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+author:
+  name: Abdulrahman Khan
+  email: arkhan2013@hotmail.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Social media links
+social:
+  github: https://github.com/yourusername
+  linkedin: hhttps://www.linkedin.com/in/abdulrahman-khan/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
